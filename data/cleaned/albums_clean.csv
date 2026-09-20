@@ -1,0 +1,301 @@
+album_id,album_name,artist_id,genre_id,release_date
+1,Neon III,56,3,2019-06-22
+2,Golden III,109,4,2016-05-22
+3,Skyline,53,11,2009-09-05
+4,Neon Sessions,25,14,2021-12-06
+5,Hearts Sessions,79,19,2017-01-10
+6,Memories Collection,37,7,2019-11-11
+7,Afterglow,60,15,2006-09-16
+8,Neon I,102,6,2009-09-22
+9,Waves I,82,20,2026-04-22
+10,Sunset II,40,8,2000-01-08
+11,Infinite I,61,20,2014-07-21
+12,Moonlight,74,7,2012-08-13
+13,Unplugged,32,5,2000-02-25
+14,Gravity,55,8,2016-08-02
+15,Horizons Sessions,72,8,2004-08-22
+16,Rhythm III,68,18,2024-08-20
+17,Memories Collection,105,17,2014-03-24
+18,Afterglow III,111,16,2024-04-27
+19,Infinite Collection,82,9,2015-11-08
+20,Dreams,36,15,2009-04-09
+21,Paradise I,43,11,2004-03-08
+22,Moonlight II,50,5,2002-07-14
+23,Afterglow Sessions,43,18,2001-04-27
+24,Infinite Collection,54,13,2022-01-28
+25,Skyline Sessions,113,19,2000-06-10
+26,Memories Collection,97,13,2023-12-18
+27,Stories Sessions,103,20,2007-05-14
+28,Skyline III,63,1,2021-11-26
+29,Afterglow II,52,6,2019-09-01
+30,Silence Collection,117,13,2021-01-03
+31,Reflections Sessions,83,14,2005-01-09
+32,Sunset Sessions,49,11,2010-06-25
+33,Pulse Sessions,113,13,2008-02-16
+34,Echoes III,3,18,2007-11-03
+35,Infinite I,100,2,2007-04-27
+36,Reflections II,3,20,2004-08-22
+37,Sunset Sessions,15,19,2022-05-25
+38,Rhythm Collection,48,6,2023-12-04
+39,Hearts I,100,6,2018-01-10
+40,Skyline,74,13,2006-02-19
+41,Horizons,89,8,2024-05-28
+42,Horizons Collection,88,20,2025-01-12
+43,Neon III,69,14,2002-09-21
+44,Memories Sessions,44,1,2003-07-12
+45,Moonlight II,82,15,2013-03-24
+46,Rhythm Collection,67,9,2024-08-15
+47,Pulse III,56,19,2007-02-09
+48,Stories Sessions,113,15,2018-10-22
+49,Midnight Sessions,49,11,2010-03-16
+50,Pulse III,28,12,2008-10-23
+51,Paradise I,113,9,2016-04-03
+52,Journey Collection,31,14,2024-04-23
+53,Afterglow I,61,16,2002-05-08
+54,Hearts,52,8,2018-06-16
+55,Fire Sessions,71,17,2023-09-11
+56,Pulse III,46,15,2008-04-04
+57,Waves I,93,7,2023-09-25
+58,Sunset II,89,6,2023-08-09
+59,Infinite Collection,93,19,2019-05-04
+60,Hearts II,107,7,2011-03-10
+61,Reflections III,2,18,2001-01-18
+62,Unplugged Sessions,38,5,2003-01-19
+63,Journey Sessions,37,16,2010-03-02
+64,Horizons I,33,16,2012-08-03
+65,Reflections II,74,2,2025-10-10
+66,Horizons Collection,11,8,2024-07-20
+67,Stories Collection,77,20,2012-08-15
+68,Memories III,39,19,2018-10-02
+69,Infinite II,79,4,2020-04-09
+70,Gravity II,85,3,2005-09-03
+71,Memories Sessions,21,1,2022-10-16
+72,Stories III,38,2,2022-05-23
+73,Dreams,111,15,2007-05-26
+74,Neon II,102,19,2013-02-18
+75,Pulse II,29,5,2002-01-06
+76,Rhythm,102,10,2026-10-10
+77,Afterglow,57,4,2009-12-13
+78,Paradise Sessions,35,17,2014-02-20
+79,Golden III,6,14,2019-05-01
+80,Neon Collection,12,8,2018-01-25
+81,Silence I,87,9,2024-03-16
+82,Pulse II,67,15,2018-07-21
+83,Dreams Sessions,105,16,2011-07-11
+84,Gravity III,42,4,2013-12-16
+85,Infinite Collection,37,13,2001-08-03
+86,Waves I,41,9,2024-07-28
+87,Neon Collection,66,1,2014-07-02
+88,Fire Collection,25,17,2024-08-21
+89,Sunset III,57,2,2017-03-10
+90,Horizons I,57,16,2020-10-26
+91,Hearts Collection,31,6,2000-09-14
+92,Horizons Sessions,12,8,2003-11-27
+93,Moonlight III,20,16,2016-12-09
+94,Journey II,54,16,2014-09-05
+95,Rhythm Collection,50,7,2023-03-28
+96,Infinite Sessions,9,9,2010-09-09
+97,Hearts,106,1,2009-10-19
+98,Reflections Sessions,85,16,2017-08-12
+99,Infinite Collection,43,18,2012-08-11
+100,Moonlight II,112,7,2018-07-08
+101,Echoes III,110,14,2023-08-23
+102,Skyline,117,13,2025-11-05
+103,Reflections Collection,64,2,2018-06-28
+104,Horizons Collection,13,15,2014-01-24
+105,Unplugged II,19,14,2002-08-26
+106,Rhythm,34,11,2012-11-03
+107,Neon Collection,110,11,2012-06-21
+108,Paradise I,92,16,2019-02-08
+109,Stories,81,10,2002-07-04
+110,Afterglow II,98,4,2022-05-01
+111,Echoes III,6,11,2011-06-14
+112,Rebirth Sessions,19,8,2018-11-26
+113,Gravity I,24,6,2019-07-20
+114,Journey Collection,88,8,2004-04-15
+115,Afterglow III,82,9,2021-01-26
+116,Neon Collection,60,10,2005-02-15
+117,Hearts,45,19,2013-12-09
+118,Sunset Sessions,59,10,2015-02-08
+119,Fire Collection,49,19,2009-12-10
+120,Pulse I,3,13,2018-11-25
+121,Rhythm,96,2,2015-05-25
+122,Rhythm III,103,8,2007-11-07
+123,Neon,80,9,2024-11-22
+124,Unplugged I,108,5,2020-11-02
+125,Echoes Collection,40,15,2011-12-05
+126,Waves,12,10,2013-03-07
+127,Fire Collection,17,18,2016-05-27
+128,Journey III,22,9,2023-06-26
+129,Dreams II,15,15,2024-04-28
+130,Paradise III,87,13,2002-07-01
+131,Horizons Sessions,34,18,2011-11-24
+132,Silence Sessions,87,9,2026-11-12
+133,Journey I,14,8,2019-09-11
+134,Stories,118,20,2002-11-27
+135,Unplugged Sessions,60,10,2003-03-02
+136,Journey I,5,10,2003-04-18
+137,Afterglow III,18,13,2021-12-23
+138,Silence,70,14,2023-03-14
+139,Journey Collection,84,4,2013-05-02
+140,Sunset Sessions,89,12,2014-04-28
+141,Neon III,47,4,2017-11-12
+142,Pulse II,8,13,2003-08-03
+143,Unplugged,85,7,2019-01-02
+144,Stories II,101,11,2025-10-07
+145,Sunset Collection,9,18,2006-04-11
+146,Rhythm I,100,5,2008-03-05
+147,Gravity I,70,9,2021-01-05
+148,Stories Collection,2,12,2010-01-06
+149,Reflections,34,2,2013-09-04
+150,Journey Sessions,96,3,2024-06-17
+151,Afterglow Collection,76,4,2007-10-02
+152,Hearts Sessions,94,17,2020-01-02
+153,Memories,62,13,2003-08-23
+154,Dreams I,117,15,2010-10-05
+155,Pulse Collection,9,5,2020-10-18
+156,Skyline Collection,92,11,2016-05-15
+157,Memories I,65,20,2025-12-04
+158,Golden II,110,18,2013-08-08
+159,Afterglow Sessions,53,11,2013-12-04
+160,Waves,41,14,2008-06-05
+161,Dreams I,88,16,2026-02-03
+162,Golden,56,4,2011-03-18
+163,Paradise Collection,8,19,2010-11-04
+164,Neon Sessions,53,12,2023-01-10
+165,Fire I,77,10,2018-09-07
+166,Stories I,20,16,2011-09-12
+167,Silence II,15,9,2025-07-28
+168,Rhythm,72,20,2020-09-01
+169,Midnight II,78,9,2008-12-25
+170,Fire I,40,11,2005-03-19
+171,Dreams II,85,13,2023-11-01
+172,Sunset Sessions,12,17,2013-08-11
+173,Hearts,21,12,2010-10-20
+174,Reflections II,11,2,2024-10-02
+175,Pulse Sessions,87,3,2021-07-16
+176,Memories III,78,15,2006-09-04
+177,Horizons III,45,14,2021-11-19
+178,Neon III,63,17,2001-04-13
+179,Midnight II,77,2,2009-04-25
+180,Hearts III,18,9,2003-01-16
+181,Gravity II,96,14,2012-09-23
+182,Paradise,30,17,2025-06-03
+183,Memories I,51,2,2014-02-28
+184,Memories Collection,41,19,2012-12-21
+185,Horizons Sessions,54,10,2000-06-06
+186,Afterglow,103,20,2011-02-14
+187,Stories Sessions,109,4,2018-07-17
+188,Hearts,11,13,2010-04-11
+189,Dreams Collection,100,6,2020-02-17
+190,Infinite III,66,7,2011-12-27
+191,Stories I,83,5,2004-05-07
+192,Reflections,23,20,2002-03-25
+193,Afterglow Collection,81,16,2024-10-15
+194,Unplugged,88,19,2019-06-28
+195,Reflections Sessions,81,11,2002-08-15
+196,Pulse Collection,81,10,2001-06-17
+197,Afterglow Sessions,10,10,2001-01-12
+198,Dreams,107,10,2002-10-20
+199,Afterglow Collection,65,13,2017-12-02
+200,Unplugged II,58,19,2010-10-16
+201,Echoes Sessions,65,5,2003-06-23
+202,Unplugged II,11,17,2001-04-23
+203,Rebirth Collection,57,15,2019-03-12
+204,Skyline Sessions,48,10,2024-06-22
+205,Unplugged,77,2,2010-02-11
+206,Neon Sessions,13,18,2009-05-24
+207,Reflections III,110,20,2002-10-22
+208,Hearts,19,12,2022-11-13
+209,Moonlight I,17,20,2009-09-13
+210,Reflections,83,11,2022-12-22
+211,Dreams,117,17,2021-07-17
+212,Fire III,47,1,2005-04-11
+213,Sunset II,99,16,2004-03-03
+214,Rebirth Collection,38,4,2026-12-17
+215,Infinite Collection,5,11,2004-10-13
+216,Gravity,20,6,2024-10-26
+217,Golden Sessions,116,6,2001-07-12
+218,Afterglow Collection,87,8,2009-12-26
+219,Paradise II,58,8,2009-08-27
+220,Neon Collection,25,12,2014-08-25
+221,Rebirth Collection,37,13,2013-03-27
+222,Reflections III,26,20,2001-11-16
+223,Paradise I,112,12,2022-09-28
+224,Dreams II,16,10,2008-08-17
+225,Dreams II,19,14,2026-08-12
+226,Memories I,120,1,2012-09-12
+227,Dreams III,31,13,2007-01-11
+228,Moonlight,120,4,2010-03-05
+229,Journey,5,10,2026-03-25
+230,Afterglow Collection,91,16,2000-02-01
+231,Reflections Collection,33,7,2023-10-17
+232,Infinite III,55,4,2007-05-04
+233,Memories,7,8,2025-10-15
+234,Journey Collection,9,4,2017-01-21
+235,Stories,66,19,2004-05-14
+236,Fire II,1,20,2018-07-06
+237,Rebirth III,86,3,2002-09-18
+238,Paradise I,65,17,2012-08-02
+239,Fire III,82,13,2023-01-12
+240,Fire II,101,3,2023-11-21
+241,Golden III,14,19,2004-01-12
+242,Unplugged II,70,11,2026-11-15
+243,Unplugged II,90,16,2025-03-03
+244,Echoes III,92,15,2006-01-26
+245,Waves III,26,2,2016-07-27
+246,Pulse I,70,16,2024-11-07
+247,Infinite I,37,12,2020-06-09
+248,Memories Sessions,16,12,2023-08-13
+249,Journey,44,6,2015-06-26
+250,Dreams,67,9,2013-02-14
+251,Paradise III,78,6,2010-02-03
+252,Hearts Sessions,42,10,2019-12-14
+253,Fire Sessions,22,15,2001-12-28
+254,Rhythm Sessions,117,12,2008-11-26
+255,Neon,8,3,2012-06-17
+256,Midnight II,103,6,2019-11-26
+257,Reflections I,57,2,2007-11-12
+258,Silence I,47,13,2019-03-22
+259,Fire Sessions,58,12,2024-02-19
+260,Fire Sessions,18,17,2010-11-09
+261,Midnight,32,4,2005-08-17
+262,Horizons III,50,18,2024-05-23
+263,Rhythm III,58,7,2022-08-07
+264,Dreams Sessions,16,5,2005-12-15
+265,Neon III,12,11,2022-02-18
+266,Hearts II,70,10,2022-12-23
+267,Fire Collection,82,6,2007-02-07
+268,Stories Sessions,102,5,2000-06-18
+269,Afterglow Collection,74,12,2004-10-03
+270,Skyline,9,10,2023-08-17
+271,Silence I,53,14,2004-06-21
+272,Afterglow,10,15,2016-06-05
+273,Unplugged Collection,113,18,2005-03-14
+274,Horizons Collection,65,2,2004-05-06
+275,Moonlight II,21,11,2011-09-10
+276,Pulse II,109,3,2020-09-09
+277,Rhythm Collection,17,10,2002-09-21
+278,Silence II,22,19,2005-11-20
+279,Waves Collection,93,20,2001-01-03
+280,Pulse,6,19,2006-10-14
+281,Journey,80,1,2017-05-21
+282,Stories,39,16,2012-05-15
+283,Gravity Sessions,10,2,2013-08-15
+284,Rhythm II,27,11,2010-12-11
+285,Skyline II,94,12,2024-06-17
+286,Waves II,72,4,2014-02-09
+287,Reflections I,58,8,2001-05-13
+288,Memories II,111,20,2005-06-19
+289,Sunset II,93,11,2015-09-15
+290,Journey I,64,10,2002-07-17
+291,Sunset Collection,59,8,2011-01-02
+292,Rhythm,37,16,2021-08-10
+293,Horizons Sessions,69,1,2004-05-24
+294,Fire I,47,13,2012-01-19
+295,Fire Collection,72,7,2009-02-13
+296,Infinite Collection,65,15,2008-10-22
+297,Reflections I,79,4,2012-06-26
+298,Fire II,44,18,2006-10-17
+299,Echoes I,52,17,2001-03-23
+300,Rebirth Sessions,43,16,2004-10-17
